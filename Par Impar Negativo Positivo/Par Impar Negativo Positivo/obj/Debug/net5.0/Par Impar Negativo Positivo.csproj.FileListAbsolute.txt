@@ -1,0 +1,16 @@
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\Par Impar Negativo Positivo.exe
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\Par Impar Negativo Positivo.deps.json
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\Par Impar Negativo Positivo.runtimeconfig.json
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\Par Impar Negativo Positivo.runtimeconfig.dev.json
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\Par Impar Negativo Positivo.dll
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\ref\Par Impar Negativo Positivo.dll
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\bin\Debug\net5.0\Par Impar Negativo Positivo.pdb
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.csproj.AssemblyReference.cache
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.AssemblyInfoInputs.cache
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.AssemblyInfo.cs
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.dll
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\ref\Par Impar Negativo Positivo.dll
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.pdb
+D:\Etec\PA\Par Impar Negativo Positivo\Par Impar Negativo Positivo\obj\Debug\net5.0\Par Impar Negativo Positivo.genruntimeconfig.cache
